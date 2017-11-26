@@ -14,7 +14,7 @@ body {
 }
 
 img {
-  width: 35%;
+  width: 30%;
   display: block;
   text-align: center;
   margin: 0 auto;
@@ -54,7 +54,7 @@ p {
   color: #fff;
   background-color: #333;
   border-radius: 5px;
-  padding: .5rem
+  padding: .5rem;
 }
 
 .btn:hover {
