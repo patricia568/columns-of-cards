@@ -46,11 +46,14 @@ a {
   font-size: .875rem;
   text-decoration: none;
   font-style: normal;
-  font-style: bold;
   color: #fff;
   background-color: #333;
   padding: .5rem;
   border-radius: 5px;
+}
+
+a:hover {
+  background-color: #000;
 }
 
 p {
