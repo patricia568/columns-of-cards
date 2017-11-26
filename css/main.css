@@ -10,3 +10,28 @@ html {
 img {
   width: 100px;
 }
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1rem;
+  font-weight: bolder;
+}
+
+h3 {
+  font-size: .875rem;
+  font-style: italic;
+}
+
+p {
+  font-size: 1rem;
+  font-style: normal;
+}
+
+a {
+  font-size: .875rem;
+  text-decoration: none;
+  font-style: normal;
+}
