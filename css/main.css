@@ -96,3 +96,7 @@ p {
   border-right: 1px solid #333;
   padding-bottom: 2rem;
 }
+
+.btn-small {
+  padding-bottom: 5em;
+}
