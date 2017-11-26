@@ -45,7 +45,7 @@ p {
   font-style: normal;
 }
 
-a {
+.btn {
   font-size: .875rem;
   text-decoration: none;
   font-style: normal;
@@ -55,7 +55,7 @@ a {
   border-radius: 5px;
 }
 
-a:hover {
+.btn:hover {
   background-color: #000;
 }
 
