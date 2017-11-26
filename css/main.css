@@ -15,7 +15,7 @@ body {
 
 img {
   width: 100px;
-  display: inline;
+  display: block;
   text-align: center;
 }
 
@@ -43,6 +43,7 @@ h3 {
 p {
   font-size: 1rem;
   font-style: normal;
+  margin-bottom: 1.5em;
 }
 
 .btn {
@@ -57,10 +58,6 @@ p {
 
 .btn:hover {
   background-color: #000;
-}
-
-p {
-  margin-bottom: 1.5em;
 }
 
 .card-1 {
