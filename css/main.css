@@ -9,6 +9,7 @@ html {
 
 img {
   width: 100px;
+  align: center;
 }
 
 h1 {
@@ -34,4 +35,20 @@ a {
   font-size: .875rem;
   text-decoration: none;
   font-style: normal;
+}
+
+.card-1 {
+  background-color: #e2e2e2;
+}
+
+.card-2 {
+  background-color: #ccc;
+}
+
+.card-3 {
+  background-color: #aaa;
+}
+
+.card-4 {
+  background-color: #999;
 }
